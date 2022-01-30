@@ -1,4 +1,4 @@
-Exercise 3 : Process pairs
+Exercise 3 : Process Pairs
 ==========================
 
 A process pair is a program that acts as its own supervisor, by creating its own backup (a duplicate of itself) in case it crashes.
@@ -82,8 +82,8 @@ Make sure you don't over-complicate things. This program should be two loops (on
 In case you want to use this on the project: Usually a program crashes for a reason. Restoring the program to the same state as it died in may cause it to crash in exactly the same way, all over again. How would you prevent this from happening?
 
 
-Project brainstorm
-------------------
+Project Brainstorm
+==================
 
 *This part does not have to be handed in, but you may find it useful to discuss with the student assistants.*
 
